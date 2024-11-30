@@ -26,7 +26,7 @@ The dashboard leverages **Excel's Pivot Tables**, **XLOOKUP**, **IF formulas**, 
 
 ## How to Use
 1. Clone the repository or download the Excel file.
-2. Open the `Coffee Sales Analysis.xlsx` file.
+2. Open the [Coffee Sales Analysis.xlsx](https://github.com/user-attachments/files/17966273/Coffee.Sales.Analysis.xlsx) file.
 3. Use slicers and timeline filters to interact with the dashboard.
 
 ## Technologies Used
