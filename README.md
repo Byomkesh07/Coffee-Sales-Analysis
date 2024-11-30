@@ -6,6 +6,9 @@ This project is an interactive Excel-based dashboard analyzing coffee sales data
 - **Sales by country**
 - **Top 5 customers**
 
+## Dataset 
+[coffeeOrdersData.xlsx](https://github.com/user-attachments/files/17966262/coffeeOrdersData.xlsx)
+
 The dashboard leverages **Excel's Pivot Tables**, **XLOOKUP**, **IF formulas**, and data cleaning techniques.
 
 ## Features
